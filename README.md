@@ -70,10 +70,3 @@ The dataset contains the following key columns:
 
 ![Dashboard Preview](dashboard_preview.png)
 
-
-
-## Contact Information
-
-- **Name**: Mohammed Shibin Yousaf M
-- **Email**: shibin.yousafm@gmail.com
-- **GitHub**: [shibinyousaf](https://github.com/shibinyousaf)
